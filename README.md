@@ -1,4 +1,4 @@
-### Oi! Eu sou a Vitória Tavares, estudante de ciências da computação e desenvolvedora fullstack em formação.
+### Oi! Eu sou a Vitória Tavares, estudante de ciências da computação e futura cientista de dados.
 
 <div align="center">
   <a href="https://github.com/vitavares">
