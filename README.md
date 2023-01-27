@@ -1,4 +1,4 @@
-### Oi! Eu sou a Vitória Tavares, estudante de ciências da computação e futura cintista de dados.
+### Oi! Eu sou a Vitória Tavares, estudante de ciências da computação e futura ciêntista de dados.
 
 <div align="center">
   <a href="https://github.com/vitavares">
