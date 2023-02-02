@@ -1,15 +1,9 @@
-### Oi! Eu sou a Vitória Tavares, estudante de ciências da computação e futura ciêntista de dados.
+### 👋 Hello! Welcome to my Github profile.
+ 
+- 🔭 I am currently working as an IT apprentice
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: vitoriadesousat@gmail.com or 
 
-<div align="center">
-  <a href="https://github.com/vitavares">
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=vitavares&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitavares&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+#### Skills
 
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" height="35" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="35" height="35" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" height="35" />
