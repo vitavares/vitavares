@@ -2,7 +2,7 @@
  
 - 🔭 I am currently working as an IT apprentice
 - 🌱 I’m currently learning Data Science
-- 📫 How to reach me: vitoriadesousat@gmail.com or 
+- 📫 How to reach me: vitoriadesousat@gmail.com or [Linkedin]( www.linkedin.com/in/vitória-tavares-728293196)
 
 #### Skills
 
